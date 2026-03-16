@@ -17,7 +17,9 @@ In these guides, users in this audience will learn how to:
 This guide will walk you through installing R and RStudio. 
 
 1. Navigate to the [RStudio Desktop page](https://posit.co/download/rstudio-desktop/).  
-   ![][image1]  
+
+![Image of RStudio website](Install_R_and_RStudio.png)
+   
 2. Install R:   
    1. On the RStudios Desktop Page, scroll down and click on the blue button that reads **Download and Install R**.  
       ![][image2]  
@@ -158,7 +160,9 @@ In these guides, users in this audience will learn how to:
 This guide will walk you through installing R and RStudio. 
 
 4. Navigate to the [RStudio Desktop page](https://posit.co/download/rstudio-desktop/).  
-   ![][image1]  
+
+![Image of RStudio website](Install_R_and_RStudio.png)
+   
 5. Install R:   
    1. On the RStudios Desktop Page, scroll down and click on the blue button that reads **Download and Install R**.  
       ![][image2]  
