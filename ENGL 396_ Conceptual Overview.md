@@ -10,16 +10,16 @@ The purpose of this introductory page is to outline and briefly summarize topics
 
 Interface users are users who want to interact with *My Favorite Albums* using the cloned source code. Users in this audience can use the software to explore its interface and see how music data is displayed through the various categories, filters, and graphs. In this document, users will learn: 
 
-1) What My Favorite Albums is   
-2) How My Favorite Albums works   
-3) An overview of each of the categories of the interface of My Favorite Albums 
+- What My Favorite Albums is   
+- How My Favorite Albums works
+- An overview of each of the categories of the interface of My Favorite Albums 
 
 ## ***Code Users*** 
 
 Code users are users who want to use My Favorite Albums to access its software for their learning, use, and analysis. Users in this audience can use the software to learn and utilize its code to learn more of the language (R), as well as sort and analyze their own music data to launch a personalized application. In this document, users will learn:   
-1\) What My Favorite Albums is from a developer perspective  
-2\) How My Favorite Albums works  
-3\) Why choose My Favorite Albums software
+- What My Favorite Albums is from a developer perspective
+- How My Favorite Albums works
+- Why choose My Favorite Albums software
 
 ## ***What This Software Can and Cannot Do***
 
