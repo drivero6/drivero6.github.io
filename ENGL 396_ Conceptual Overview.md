@@ -33,7 +33,7 @@ This software can sort, filter, and analyze music data through RStudio. This sof
 
 My Favorite Albums is a software tool that can sort, filter, and analyze music data stored in a CSV file. This data consisting of musical artists and albums is displayed through an application interface, launched from RStudio, consisting of several categories, graphs, and adjustable filters. The data is displayed across the included categories: **Home, Number One Albums, Top Albums by Year, Artists’ Albums, Favorite Artists, Artist Comparison, and Vinyl**.
 
-![][image1]
+image placeholder
 
 ## **How does My Favorite Albums work?** 
 
