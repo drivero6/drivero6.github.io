@@ -45,8 +45,8 @@
 
 **I have lost the project I was working on in RStudio**   
   * Switch between projects by navigating to the top right corner of your screen and selecting the drop down menu, which should show currently opened projects.   
-    ![][image3]
+    ![Image of project overview display](
 
 **My musical data cannot be read by RStudio**   
   * Make sure you have your data saved as a CSV (\*.csv) file with the following categories as the main columns. Make sure to save edits done to the CSV file to run the application interface successfully.  
-    ![][image4]
+    ![Image of CSV sample](
