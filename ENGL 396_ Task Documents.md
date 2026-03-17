@@ -70,7 +70,6 @@ This guide will walk you through generating a page interface of My Favorite Albu
 3. In the viewer tab (upper left panel), select **Run App** to generate a My Favorite Albums application interface within RStudio.
 
 ![Image of viewer tab on RStudio showing Run App button](generate_3.png)
-
    > Optional: To open in a browser, select **Open in Browser** within the page generated on RStudio.
 
 ## **UI Guide for Number One Albums** 
@@ -112,7 +111,7 @@ This guide will walk you through the **Favorite Artists** tab.
 
 1. On the My Favorite Albums page, select **Favorite Artists** to navigate to the tab. 
 2. Select minimum number of albums from dropdown list and click **submit**. You can also type in the artist's name and click **submit**. 
-   - Optional: Select to exclude EPs and Live Albums by clicking on the checkbox 
+   - Optional: Select to exclude EPs and Live Albums by clicking on the checkbox.
 
 ![Image of Favorite Artists tab](ui_4.png)
 
