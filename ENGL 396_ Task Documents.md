@@ -21,13 +21,17 @@ This guide will walk you through installing R and RStudio.
 ![Image of RStudio website](Install_R_and_RStudio.png)
    
 2. Install R:   
-   1. On the RStudios Desktop Page, scroll down and click on the blue button that reads **Download and Install R**.  
-      ![][image2]  
-   2. Select the operating system of your choice and follow the instructions on how to install R for the first time.   
-      ![][image3]  
-3. Install RStudio:  
-   1. On the RStudios Desktop Page, scroll down and click on the blue button that reads “Download RStudio Desktop”  
-   2. Click on the downloaded file and allow RStudio to install
+   a. On the RStudios Desktop Page, click on the blue button that reads **Download and Install R**, then select the operating system of your choice.
+
+![Image of R download page displaying several operating systems](install_R.png)
+
+   b. Select **install R for the first time**.
+
+![Image of R install page](install_R_2.png)
+   
+2. Install RStudio:  
+   1. On the RStudios Desktop Page, click on the blue button that reads **Download RStudio Desktop**.
+   2. Click on the downloaded file and allow RStudio to install.
 
 ## **Retrieve and clone the software source code** 
 
