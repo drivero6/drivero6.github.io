@@ -124,7 +124,7 @@ This guide will walk you through the **Artist Comparison** tab.
 1. On the My Favorite Albums page, select **Artist Comparison** to navigate to the tab. 
 2. Select first and second bands and artists to compare using the respective dropdown lists.
 
-[Image of Artist Comparison tab](ui_5.png)
+![Image of Artist Comparison tab](ui_5.png)
 
 > The graph below will show the first band in red and the second band in blue, graphing the artists’ album ratings across their years
 
@@ -160,58 +160,62 @@ In these guides, users in this audience will learn how to:
 
 This guide will walk you through installing R and RStudio. 
 
-4. Navigate to the [RStudio Desktop page](https://posit.co/download/rstudio-desktop/).  
+1. Navigate to the [RStudio Desktop page](https://posit.co/download/rstudio-desktop/).  
 
 ![Image of RStudio website](Install_R_and_RStudio.png)
    
-5. Install R:   
-   1. On the RStudios Desktop Page, scroll down and click on the blue button that reads **Download and Install R**.  
-      ![][image2]  
-   2. Select the operating system of your choice and follow the instructions on how to install R for the first time.   
-      ![][image3]  
-6. Install RStudio:  
-   1. On the RStudios Desktop Page, scroll down and click on the blue button that reads “Download RStudio Desktop”  
-   2. Click on the downloaded file and allow RStudio to install
+2. Install R:   
+   a. On the RStudios Desktop Page, click on the blue button that reads **Download and Install R**, then select the operating system of your choice.
+
+![Image of R download page displaying several operating systems](install_R.png)
+
+   b. Select **install R for the first time**.
+
+![Image of R install page](install_R_2.png)
+   
+2. Install RStudio:  
+   1. On the RStudios Desktop Page, click on the blue button that reads **Download RStudio Desktop**.
+   2. Click on the downloaded file and allow RStudio to install.
 
 ## **Retrieve and clone the software source code** 
 
 This guide will walk you through retrieving the software that is My Favorite Albums. 
 
-***Note***: Install the required packages through RStudio (dplyr, shiny, ggplot2) onto your device to clone and save software files. 
+> **Note**: Install the required packages through RStudio (dplyr, shiny, ggplot2) onto your device to clone and save software files. 
 
-5. Navigate to the [GitHub page](https://github.com/UW-Example-Student/MyFavoriteAlbums) containing the source code   
-6. Select green “Code” button to download the data by copying the site link
+1. Navigate to the [GitHub page](https://github.com/UW-Example-Student/MyFavoriteAlbums) containing the source code. 
+2. Select green “Code” button to download the data by copying the site link.
 
-   ![][image4]
+![Image of code button](retrieve_2.png)
 
-7. Paste the site link into shell-based terminal to clone by entering the command line:   
-   1. git clone \<URL\>  
-8. Save the clone file “My Favorite Albums” onto your device 
-
-## 
+3. Paste the site link into shell-based terminal to clone by entering the command line:   
+   > `git clone \<URL\>`
+4. Save the clone file “My Favorite Albums” onto your device. 
 
 ## **Create a new project on RStudio using the cloned source code**
 
 This guide will walk you through installing the cloned source code of the software My Favorite Albums into RStudio. 
 
-***Note***: Install any required packages and libraries as they pop up throughout this process. Packages and libraries will be downloaded right into RStudio. 
-
-5. Open RStudio   
-6. On the top left corner, click on **File**   
-   1. Select **New Project…**  
-   2. Select **Existing Repository**  
-   3. Select clone file **My Favorite Albums**  
-7. Once a new project is created with the source code, select desired files from the files tab (bottom right panel) to view the code in the viewer tab (upper left panel) of R Studio 
+1. Open RStudio.
+2. On the top left corner, click on **File**.
+   1. Select **New Project…**.
+   2. Select **Existing Repository**.
+   3. Select clone file "My Favorite Albums".  
+3. Once a new project is created with the source code, select desired files from the files tab (bottom right panel) to view the code in the viewer tab (upper left panel) of RStudio.
+4. Install packages and libraries when using command:
+   > `install.packages()` and `library()`
 
 ## **Edit the music data**
 
 This guide will walk you through editing the data contained in the CSV file on RStudio.
 
+> **Note**: Each music entry must have the first five columns (categories) filled out for the application interface to generate.
+
 1. In the bottom-right files tab, select the **Data** folder containing the album rankings CSV file to open it in the upper-left viewer tab.   
 2. In the upper-left viewer tab, delete all lines except for the first containing the category columns.   
-3. Enter your own music data by writing each entry in the order of the format  
-   1. Note: enter code sample   
-   2. Warning: the first 5 categories are required to run the app
+3. Enter your own music data by writing each entry in the order of the format. 
+
+![Image of upper-left viewer tab with example music data entries]
 
 ## **Edit the numerical ranges of the interface tools for the Number One Albums and Artist Comparison tabs**
 
