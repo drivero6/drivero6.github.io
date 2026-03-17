@@ -1,7 +1,5 @@
 # Conceptual Overviews
 
-# Introduction
-
 ## **Overview**
 
 The purpose of this introductory page is to outline and briefly summarize topics for interface users and code users. The two types of audiences, their related topics, and a note on the software are summarized as follows: 
