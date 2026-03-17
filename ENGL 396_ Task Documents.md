@@ -126,7 +126,7 @@ This guide will walk you through the **Artist Comparison** tab.
 
 ![Image of Artist Comparison tab](ui_5.png)
 
-> The graph below will show the first band in red and the second band in blue, graphing the artists’ album ratings across their years
+> The graph below will show the first band in red and the second band in blue, graphing the artists’ album ratings across their years.
 
 ## **UI Guide for Vinyl** 
 
